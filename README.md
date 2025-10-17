@@ -59,3 +59,10 @@ Language: Python
 
 Library: pyspellchecker
  
+
+## 👨‍💻 Author
+
+Yogesh Patil
+📧 yogeshpatil432004@gmail.com
+
+⭐ If you like this project, don’t forget to give it a star!
