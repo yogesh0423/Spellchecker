@@ -50,6 +50,7 @@ Correcting "spel" to "spell"
 
 Correcting "chekcer" to "checker"
 
+
 Corrected Text: This is an example of a spell checker.
 
 
