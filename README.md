@@ -21,13 +21,18 @@ It uses the `pyspellchecker` library to suggest and replace incorrect words with
    git clone https://github.com/YOUR_USERNAME/spellchecker_app.git
 
 2. Navigate to the project folder
-   cd spellchecker_app
+
+   `cd spellchecker_app`
+
 
 3. Install Dependencies
-   pip install -r requirements.txt
 
-4. Run the program
-   python main.py
+   `pip install -r requirements.txt`
+   
+
+5. Run the program
+
+   `python main.py`
 
 ## 🧮 Example
 
@@ -38,14 +43,19 @@ Thiss is an exampel of a spel chekcer.
 Output:
 
 Correcting "Thiss" to "This"
+
 Correcting "exampel" to "example"
+
 Correcting "spel" to "spell"
+
 Correcting "chekcer" to "checker"
+
 Corrected Text: This is an example of a spell checker.
 
 
 ## 🧰 Tech Stack
 
 Language: Python
+
 Library: pyspellchecker
  
